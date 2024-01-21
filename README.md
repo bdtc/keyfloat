@@ -13,3 +13,5 @@ package, the name also appears in the List of Figures.
 Floats may be moved into or rearranged inside a multi-row environment or subfloats, and are typeset to fit within the given number of columns, continuing to additional rows as necessary. Nested sub-rows may be used to generate layouts such as two small figures placed vertically next to one larger figure.
 
 The code is located at CTAN: https://ctan.org/pkg/keyfloat
+
+![Sample keyfloat output](https://raw.githubusercontent.com/bdtc/keyfloat/main/sample.jpg)
